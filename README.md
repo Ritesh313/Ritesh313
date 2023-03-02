@@ -1,9 +1,9 @@
-### Hi there, I'm Ritesh! 👋
+### Hi there, I'm [Ritesh](https://ritesh313.github.io/)! 👋
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh313/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:riteshchowdhry@ufl.edu)
 <br/>
 
-- I like to use machine learning and computer vision to solve problems 🤖.
+- I like to use deep learning models to solve problems 🤖.
 
 - I'm currently pursuing a PhD in [Machine Learning and Sensing Lab](https://faculty.eng.ufl.edu/machine-learning/) at University of Florida.
 
