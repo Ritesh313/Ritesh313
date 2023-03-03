@@ -1,7 +1,9 @@
-### Hi there, I'm [Ritesh](https://ritesh313.github.io/)! 👋
+### Hi there, I'm Ritesh! 👋 <br/>
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh313/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:riteshchowdhry@ufl.edu)
 <br/>
+
+- Checkout my [Website](https://ritesh313.github.io/). 
 
 - I like to use deep learning models to solve problems 🤖.
 
