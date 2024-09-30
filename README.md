@@ -11,7 +11,7 @@
 
 - I work a lot with Hyperspectral Imagery.
 
-- My thesis topic is: Semi-Supervised Classification of Hyperspectral Images.
+- My thesis topic is: Semi-Supervised Classification of Hyperspectral Images using [Co-Training](https://www.cs.cmu.edu/~avrim/Papers/cotrain.pdf).
 
 
 
